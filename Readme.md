@@ -1,3 +1,11 @@
+<!-- default file list -->
+*Files to look at*:
+
+* [Form1.cs](./CS/WindowsFormsApplication907/Form1.cs)
+* [MySkinTabPainter.cs](./CS/WindowsFormsApplication907/MySkinTabPainter.cs)
+* [MySkinViewInfoRegistrator.cs](./CS/WindowsFormsApplication907/MySkinViewInfoRegistrator.cs)
+* [Program.cs](./CS/WindowsFormsApplication907/Program.cs)
+<!-- default file list end -->
 # XtraTabControl - How to manually paint tab header's text
 
 
