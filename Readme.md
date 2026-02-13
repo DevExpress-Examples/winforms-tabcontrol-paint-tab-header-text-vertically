@@ -19,7 +19,7 @@ This example creates a custom skin painter that draws text in tab headers vertic
 * [MySkinViewInfoRegistrator.cs](./CS/WindowsFormsApplication907/MySkinViewInfoRegistrator.cs)
 * [Program.cs](./CS/WindowsFormsApplication907/Program.cs)
 <!-- feedback -->
-## Does this example address your development requirements/objectives?
+## Does This Example Address Your Development Requirements/Objectives?
 
 [<img src="https://www.devexpress.com/support/examples/i/yes-button.svg"/>](https://www.devexpress.com/support/examples/survey.xml?utm_source=github&utm_campaign=winforms-tabcontrol-paint-tab-header-text-vertically&~~~was_helpful=yes) [<img src="https://www.devexpress.com/support/examples/i/no-button.svg"/>](https://www.devexpress.com/support/examples/survey.xml?utm_source=github&utm_campaign=winforms-tabcontrol-paint-tab-header-text-vertically&~~~was_helpful=no)
 
